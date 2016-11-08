@@ -15,9 +15,8 @@ config.js
 *.sln
 .vs
 *.iml
-11VS11/dev
-11VS11/routes
-11VS11/views
-11VS11/bin
+game-features/public/res
+game-features/routes
+game-features/views
+game-features/bin
 app.js
-package.json
